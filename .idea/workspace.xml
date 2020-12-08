@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34bf3ca3-8c42-4326-8978-16590f904794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 05/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 05/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 05/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 06/Arithmetic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 06/LanGUAGECATEGORY.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 06/Object.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 06/Object_Special_behavior.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 06/UTF8_Encoding.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +92,7 @@
       <workItem from="1603765948191" duration="16730000" />
       <workItem from="1604281024204" duration="22588000" />
       <workItem from="1606025345492" duration="4453000" />
-      <workItem from="1606980726075" duration="4588000" />
+      <workItem from="1606980726075" duration="12763000" />
     </task>
     <task id="LOCAL-00001" summary="1.week1 homework">
       <created>1603964104071</created>
